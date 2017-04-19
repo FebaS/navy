@@ -19,6 +19,7 @@ background-image: url("https://s-media-cache-ak0.pinimg.com/564x/2e/91/0f/2e910f
 <td>Most search engines will truncate Page title to 65 characters.
 <br>⟩⟩ Official website of Indian Navy
 </td>
+</tr>
 <tr>
 <td>Meta Description</td> 
 <td>FOUND </td>
